@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1675024144 source:c:\users\joaov\onedrive\documentos\trabalhos ed1\trabalhoded1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"lista.h"
+
+1675020567 c:\users\joaov\onedrive\documentos\trabalhos ed1\trabalhoded1\localist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1675029061 source:c:\users\joaov\onedrive\documentos\trabalhos ed1\trabalhoded1\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"lista.h"
+
+1675029061 c:\users\joaov\onedrive\documentos\trabalhos ed1\trabalhoded1\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
